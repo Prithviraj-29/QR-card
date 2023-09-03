@@ -1,3 +1,5 @@
+Live: https://qr-card-360afa.netlify.app/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](desktop.jpg)
